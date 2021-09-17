@@ -1,0 +1,11 @@
+name: binder-environment
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - psutil
+  - scikit-learn
+  - scipy
+  - seaborn
