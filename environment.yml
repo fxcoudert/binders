@@ -2,6 +2,7 @@ name: binder-environment
 channels:
   - conda-forge
 dependencies:
+  - ipympl
   - matplotlib-base
   - numpy
   - pandas
