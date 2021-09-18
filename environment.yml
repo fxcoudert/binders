@@ -2,11 +2,19 @@ name: binder-environment
 channels:
   - conda-forge
 dependencies:
-  - ipympl
-  - matplotlib-base
+  # Match the default Anaconda
+  - python=3.8
+
+  # Scientific python
   - numpy
   - pandas
-  - psutil
-  - scikit-learn
   - scipy
+
+  # Plotting
+  - ipympl
+  - matplotlib-base
+  - plotly
   - seaborn
+
+  # Machine learning
+  - scikit-learn
