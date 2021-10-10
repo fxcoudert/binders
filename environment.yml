@@ -2,8 +2,8 @@ name: binder-environment
 channels:
   - conda-forge
 dependencies:
-  # Match the default Anaconda
-  - python=3.8
+  # Enforce Python version
+  - python=3.9
 
   # Scientific python
   - numpy
@@ -18,3 +18,6 @@ dependencies:
 
   # Machine learning
   - scikit-learn
+
+  # Chemistry
+  - rdkit
