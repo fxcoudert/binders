@@ -10,5 +10,5 @@ This repository contains some Python binders for teaching.
 
 ## Machine learning in chemistry
 
-
-##
+- [Prediction of melting point of organic molecules by linear regression](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Linear_regression_melting_point.ipynb)
+- [Classification of molecules by aqueous solubility](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Classification_soluble_molecules.ipynb)
