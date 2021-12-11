@@ -12,3 +12,4 @@ This repository contains some Python binders for teaching.
 
 - [Prediction of melting point of organic molecules by linear regression](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Linear_regression_melting_point.ipynb)
 - [Classification of molecules by aqueous solubility](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Classification_soluble_molecules.ipynb)
+- [Similarity of molecules in a dataset](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Similarity_of_molecules.ipynb)
