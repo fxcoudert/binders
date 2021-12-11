@@ -6,6 +6,7 @@ dependencies:
   - python=3.9
 
   # Scientific python
+  - networkx
   - numpy
   - openpyxl
   - pandas
@@ -21,4 +22,5 @@ dependencies:
   - scikit-learn
 
   # Chemistry
+  - mordred
   - rdkit
