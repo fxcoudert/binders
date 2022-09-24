@@ -14,6 +14,7 @@ dependencies:
 
   # Plotting
   - ipympl
+  - ipywidgets
   - matplotlib-base
   - plotly
   - seaborn
@@ -24,3 +25,6 @@ dependencies:
   # Chemistry
   - mordred
   - rdkit
+
+  # Materials Project
+  - mp_api
