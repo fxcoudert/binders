@@ -26,5 +26,9 @@ dependencies:
   - mordred
   - rdkit
 
-  # Materials Project
-  - mp_api
+  # Install some things through pip
+  - pip
+  - pip:
+    # Materials Project
+    - mp_api
+    - mpcontribs-client
