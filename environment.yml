@@ -3,9 +3,10 @@ channels:
   - conda-forge
 dependencies:
   # Enforce Python version
-  - python=3.10
+  - python=3.11
 
   # Scientific python
+  - jupyterlab
   - networkx
   - numpy
   - openpyxl
