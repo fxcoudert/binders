@@ -23,6 +23,7 @@ dependencies:
   - scikit-learn
 
   # Chemistry
+  - mendeleev
   - mordred
   - rdkit
 
