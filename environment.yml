@@ -27,6 +27,9 @@ dependencies:
   - mordred
   - rdkit
 
+  # Utilities
+  - pycodestyle
+
   # Install some things through pip
   - pip
   - pip:
