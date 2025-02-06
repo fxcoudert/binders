@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   # Enforce Python version
-  - python=3.11
+  - python=3.12
 
   # Scientific python
   - jupyterlab
@@ -22,17 +22,21 @@ dependencies:
   # Machine learning
   - scikit-learn
 
-  # Chemistry
+  # General chemistry
+  - ase
   - mendeleev
   - mordred
   - rdkit
 
+  # Materials Project
+  - mp-api
+  - pymatgen
+
   # Utilities
   - pycodestyle
+  - ruff
 
   # Install some things through pip
   - pip
-  - pip:
-    # Materials Project
-    - mp_api
-    - mpcontribs-client
+  # - pip:
+  #   - mpcontribs-client
