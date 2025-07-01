@@ -24,19 +24,25 @@ dependencies:
 
   # General chemistry
   - ase
+  - chemiscope
   - mendeleev
   - mordred
   - rdkit
 
   # Materials Project
   - mp-api
+  - mpcontribs-client
   - pymatgen
 
   # Utilities
   - pycodestyle
   - ruff
 
+  # For study of biosystems
+  - deepmd-kit
+  - lammps
+
   # Install some things through pip
   - pip
   # - pip:
-  #   - mpcontribs-client
+  #   - some-pypi-package
