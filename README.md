@@ -14,3 +14,8 @@ This repository contains some Python binders for teaching.
 - Classification of molecules by aqueous solubility: [view/read](https://nbviewer.org/github/fxcoudert/binders/blob/master/projects/Classification_soluble_molecules.ipynb) or [run in your browser](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Classification_soluble_molecules.ipynb)
 - Similarity of molecules in a dataset: [view/read](https://nbviewer.org/github/fxcoudert/binders/blob/master/projects/Similarity_of_molecules.ipynb) or [run in your browser](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/projects/Similarity_of_molecules.ipynb)
 - Predicting 13C NMR shifts of organic molecules: [view/read](https://nbviewer.org/github/fxcoudert/binders/blob/master/projects/NMR_prediction.ipynb) or [run in your browser](https://mybinder.org/v2/gh/fxcoudert/binders/master?filepath=projects/NMR_prediction.ipynb)
+
+
+## Materials modelling
+
+Notebooks for the “Materials modelling” course are available in the [`materials_modelling/`](materials_modelling/) folder.
