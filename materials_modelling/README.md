@@ -8,7 +8,9 @@
 - [`01-sodium-chloride.ipynb`](01-sodium-chloride.ipynb): Introduction exercise, your first MD simulations.
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fxcoudert/binders/blob/master/materials_modelling/01-sodium-chloride.ipynb)
   [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/materials_modelling/01-sodium-chloride.ipynb)
-- [`02-analysing-trajectories.ipynb`](02-analysing-trajectories.ipynb): TBD
+- [`02-analysing-trajectories.ipynb`](02-analysing-trajectories.ipynb): How to analyze MD simulations.
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fxcoudert/binders/blob/master/materials_modelling/02-analysing-trajectories.ipynb)
+  [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/materials_modelling/02-analysing-trajectories.ipynb)
 - [`03-exploring-phase-diagram.ipynb`](03-exploring-phase-diagram.ipynb): TBD
 - [`04-physical-properties-of-zeolites.ipynb`](): TBD
 - [`05-metal-organic-frameworks.ipynb`](): TBD
