@@ -14,9 +14,16 @@
 - [`03-exploring-phase-diagram.ipynb`](03-exploring-phase-diagram.ipynb): Explore the phase diagram of NaCl with MD.
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fxcoudert/binders/blob/master/materials_modelling/03-exploring-phase-diagram.ipynb)
   [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/materials_modelling/03-exploring-phase-diagram.ipynb)
-- [`04-physical-properties-of-zeolites.ipynb`](): TBD
+- [`04-physical-properties-of-zeolites.ipynb`](04-physical-properties-of-zeolites.ipynb): Characterize the mechanical and thermal properties of zeolites
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fxcoudert/binders/blob/master/materials_modelling/04-physical-properties-of-zeolites.ipynb)
+  [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fxcoudert/binders/HEAD?urlpath=lab/tree/materials_modelling/04-physical-properties-of-zeolites.ipynb)
+
+
+## Future notebooks
+
 - [`05-metal-organic-frameworks.ipynb`](): TBD
 - [`06-adsorption-in-nanoporous-materials.ipynb`](): TBD
+
 
 ## Installing
 
